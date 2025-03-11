@@ -1,0 +1,4 @@
+Hızlı kullanıcı arayüzü
+Güçlü veri şifreleme
+Çevrimdışı çalışma modu
+Çoklu platform desteği
