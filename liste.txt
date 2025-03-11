@@ -2,5 +2,5 @@
 Güçlü veri şifreleme
 Hızlı kullanıcı arayüzü
 Çoklu platform desteği
-Kapsamlı müşteri desteği
+Kapsamlı müşteri desteği 
  
