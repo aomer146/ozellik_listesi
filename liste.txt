@@ -1,5 +1,5 @@
-Hızlı kullanıcı arayüzü
-Güçlü veri şifreleme
 Çevrimdışı çalışma modu
+Güçlü veri şifreleme
+Hızlı kullanıcı arayüzü
 Çoklu platform desteği
 Kapsamlı müşteri desteği
